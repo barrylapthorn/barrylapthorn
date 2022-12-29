@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a C++, Java and Kotlin dev.  I've also written Javascript, Typescript, Dart, C#, and lots of other languages.
+I'm a C++, Java and Kotlin dev.
+
+I've also written Javascript, Typescript, Dart, C#, and lots of other languages.
 
 <!--
 **barrylapthorn/barrylapthorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
