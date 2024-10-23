@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm a C++, Java and Kotlin dev.  Mostly Linux these days, but a lot Win32, and even some MacOS.
+I'm a C++, Java and Kotlin dev.  Mostly Linux and C++ these days, but a lot Win32 in the past, and even some MacOS.
 
 I've also written non-trivial amounts of C#, Javascript and some Typescript.
 
 And some Swift, D, Rust, golang, and even some F# back in the day.
 
 
-
+And that heatmap thing down there ⬇️⬇️⬇️ ?  Well, not everything gets published to github...
 
 <!--
 **barrylapthorn/barrylapthorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
